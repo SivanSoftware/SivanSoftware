@@ -71,17 +71,6 @@ Currently a full-stack developer at an AI startup, and drawn to backend, distrib
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Sivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivanSoftware&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SivanSoftware&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 ⚡ **Open to full-time software engineering roles**
