@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="assets/readme-banner.svg" width="100%" alt="Sivan Lasri — Software Engineer, Full-Stack & Backend Developer" />
+<img src="assets/logo.png" width="360" alt="Sivan Lasri logo" />
+
+### Software Engineer &nbsp;|&nbsp; Full-Stack & Backend Developer
 
 </div>
 
 ## About
 
-B.Sc. in Software Engineering — graduated **1st out of 63** students with a **GPA of 93**.
+B.Sc. in Software Engineering, graduated **1st out of 63** students with a **GPA of 93**.
 
-I'm a full-stack and backend developer who builds software end to end — from database and API design to the interfaces people actually use. I'm especially drawn to distributed systems, scalable architectures and reliable software, with hands-on experience built through academic and personal projects.
+I'm a full-stack and backend developer who builds software end to end, from database and API design to the interfaces people actually use. I'm especially drawn to distributed systems, scalable architectures and reliable software, with hands-on experience built through academic and personal projects.
 
 ## 🧩 Tech Stack
 
