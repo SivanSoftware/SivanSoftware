@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="assets/logo.png" width="360" alt="Sivan Lasri logo" />
-
-### Software Engineer &nbsp;|&nbsp; Full-Stack & Backend Developer
-
-</div>
+<img src="assets/readme-banner.png" width="100%" alt="Sivan Lasri · Software Engineer · Full-Stack & Backend Developer" />
 
 ## About
 
