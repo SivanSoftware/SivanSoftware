@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Sivan Lasri — Software Engineer, Full-Stack and Backend Developer">
+  <defs>
+    <linearGradient id="slGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono','SFMono-Regular',Consolas,monospace; }
+      .sans { font-family: 'Segoe UI','Helvetica Neue',Arial,sans-serif; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect x="2" y="2" width="1196" height="276" rx="24" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="6" rx="3" fill="url(#slGrad)"/>
+
+  <!-- SL monogram -->
+  <text x="48"  y="150" class="mono" font-size="34" fill="#3B82F6" opacity="0.55">&lt;/&gt;</text>
+  <text x="112" y="196" class="sans" font-size="150" font-weight="800" fill="#1E1B4B">S</text>
+  <text x="188" y="196" class="sans" font-size="150" font-weight="800" fill="url(#slGrad)">L</text>
+  <text x="286" y="150" class="mono" font-size="34" fill="#7C3AED" opacity="0.55">/&gt;</text>
+
+  <!-- divider -->
+  <line x1="360" y1="64" x2="360" y2="216" stroke="#E5E7EB" stroke-width="2"/>
+
+  <!-- name + title -->
+  <text x="398" y="132" class="sans" font-size="60" font-weight="800" fill="#1E1B4B">Sivan Lasri</text>
+  <rect x="400" y="150" width="190" height="5" rx="2.5" fill="url(#slGrad)"/>
+  <text x="400" y="200" class="sans" font-size="28" font-weight="600" fill="#475569">Software Engineer&#160;&#160;|&#160;&#160;<tspan fill="#2563EB">Full-Stack &amp; Backend Developer</tspan></text>
+</svg>
